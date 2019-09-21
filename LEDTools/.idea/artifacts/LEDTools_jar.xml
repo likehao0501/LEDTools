@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="LEDTools:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/LEDTools_jar</output-path>
-    <root id="archive" name="LEDTools.jar">
-      <element id="module-output" name="LEDTools" />
-    </root>
-  </artifact>
-</component>
